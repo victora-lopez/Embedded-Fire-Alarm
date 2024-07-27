@@ -1,6 +1,8 @@
 # Embedded-Fire-Alarm
 This fire alarm project was one I created when I was a part of the Technical Committee for my school's IEEE branch. After I created this project I presented it to about 100+ of our members to help them gain some inspiration for building their own projects.
 
+Simulation link: https://www.tinkercad.com/things/2PdItMqchzk-tinkercad-series-fire-alarm?sharecode=aTWhVqZ1fjFAzK7QVT2hNlhsSkZ-xvQQpqAEzHtOcAc
+
 Circuit Diagram:
 ![image](https://github.com/user-attachments/assets/6eb0b822-756b-4b4d-85ff-6b7470bf0d1d)
 
